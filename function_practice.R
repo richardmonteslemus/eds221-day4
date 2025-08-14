@@ -36,9 +36,10 @@ animal_age_stop <- function(animal, age) {
   }
 }
 
-animal_age_stop <- animal_age_stop("dog","5")
-animal_age_stop_1 <- animal_age_stop("whale", 6)
-animal_age_stop_2 <- animal_age_stop("dog", 0)
+# Error examples 
+# animal_age_stop <- animal_age_stop("dog","5")
+# animal_age_stop_1 <- animal_age_stop("whale", 6)
+# animal_age_stop_2 <- animal_age_stop("dog", 0)
 
   
 # function meet for loops 
